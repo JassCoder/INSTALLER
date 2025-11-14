@@ -1,0 +1,4 @@
+[2025-11-14 16:50:56.759654] RUN: git clone "https://github.com/kijai/ComfyUI-KJNodes.git" "C:/ComfyUI_Portable/ComfyUI_windows_portable/ComfyUI/custom_nodes\ComfyUI-KJNodes"
+[2025-11-14 16:50:56.805013] ERROR: Command 'git clone "https://github.com/kijai/ComfyUI-KJNodes.git" "C:/ComfyUI_Portable/ComfyUI_windows_portable/ComfyUI/custom_nodes\ComfyUI-KJNodes"' returned non-zero exit status 128.
+[2025-11-14 16:58:15.168842] SKIPPED clone: C:/ComfyUI_Portable/ComfyUI_windows_portable/ComfyUI/custom_nodes\ComfyUI-KJNodes already present
+[2025-11-14 16:58:21.018541] RUN: python -m pip install -r "temp_requirements.txt"
